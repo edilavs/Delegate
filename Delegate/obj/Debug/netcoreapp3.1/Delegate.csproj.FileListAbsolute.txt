@@ -1,0 +1,17 @@
+C:\Users\99470\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+C:\Users\99470\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+C:\Users\99470\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+C:\Users\99470\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+C:\Users\99470\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\99470\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\99470\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\99470\source\repos\Delegate\Delegate\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\99470\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+C:\Users\99470\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CopyComplete
+C:\Users\99470\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+C:\Users\99470\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+C:\Users\99470\source\repos\Delegate\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache
